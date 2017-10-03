@@ -1,0 +1,10 @@
+
+/* This is a CSS Document */
+
+
+	
+	#my_image_container{border: solid 1px blue; width: 600px; height: 400px;background-image: url("images/lion_large.jpg");}
+	#my_image_container2{border: solid 2px blue; width: 600px; height: 400px;background-image: url("images/lion_large.jpg");background-position: center;}
+	#my_image_container3{border: solid 22px blue; width: 600px; height: 400px;background-image: url("images/lion_large.jpg");background-position: center; background-size: cover;}
+	#my_image_container4{border: solid 1px blue; width: 100px; height: 100px;background: url("images/lion_large.jpg") -750px -500px; }
+	#my_image_container5{border: none; width: 990px; height: 150px;background: url("images/lion_large.jpg") -400px -490px; float: right;}

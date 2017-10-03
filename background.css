@@ -1,0 +1,6 @@
+
+/* This is a CSS Document */
+
+body{background-image: url("images/lake_large.jpg");background-attachment: fixed; background-size: cover;}
+
+.middle_boxes{width: 600px; height: 250px; margin: 50px auto 50px auto; border: solid 1px red;background: white;}
